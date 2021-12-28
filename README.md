@@ -28,7 +28,10 @@ Second screen is the detail screen which shows the details of the selected book 
 ## Screenshots 
 <img src="https://github.com/Onkar755/Books/blob/master/Screenshots/1.png" width=270 height=520> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Onkar755/Books/blob/master/Screenshots/2.png" width=270 height=520> &nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Onkar755/Books/blob/master/Screenshots/3.png" width=270 height=520> &nbsp;&nbsp;&nbsp;
 
+
+<img src="https://github.com/Onkar755/Books/blob/master/Screenshots/3.png" width=270 height=520> &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Onkar755/Books/blob/master/Screenshots/4.png" width=270 height=520> &nbsp;&nbsp;&nbsp;
+
+
 <img src="https://github.com/Onkar755/Books/blob/master/Screenshots/5.png" width=270 height=520> 
