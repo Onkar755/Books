@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="no_internet">No Internet!</string>
+    <string name="search_books">Search Books</string>
+    <string name="search">search</string>
+    <string name="more_info">more info</string>
+    <string name="about_this_book">About this book</string>
+    <string name="todo">TODO</string>
+</resources>
